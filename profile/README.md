@@ -1,14 +1,9 @@
- <table style="border: none; max-width: 600px;">
-  <tr>
-    <td style="padding: 0; vertical-align: top; max-width:400px">
+<div style="display: flex; max-width: 600px;">
+  <div style="padding-right: 10px; max-width:400px">
       <h1>Welcome to the GitHub Productivity Workshop Organization!</h1>
-    </td>
-    <td style="padding: 0;">
-      <img src="https://raw.githubusercontent.com/gh-productivity-workshops/.github/main/images/Professortocat_v2_small.png" alt="Professor Mona" style="display: block; width: 200px; height: 200px;">
-    </td>
-  </tr>
-</table>
-
+  </div>
+  <img src="https://raw.githubusercontent.com/gh-productivity-workshops/.github/main/images/Professortocat_v2_small.png" alt="Professor Mona" style="display: block; width: 200px; height: 200px;">
+</div>  
 
  This GitHub organization contains a number of useful repositories for workshops guided by GitHub staff and community leaders.
 
