@@ -4,7 +4,7 @@
       <h1>Welcome to the GitHub Productivity Workshop Organization!</h1>
     </td>
     <td style="padding: 0;">
-      <img src="images/Professortocat_v2_small.png" alt="Professor Mona" style="display: block; width: 200px; height: 200px;">
+      <img src="../images/Professortocat_v2_small.png" alt="Professor Mona" style="display: block; width: 200px; height: 200px;">
     </td>
   </tr>
 </table>
